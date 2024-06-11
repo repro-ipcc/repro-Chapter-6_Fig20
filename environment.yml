@@ -1,0 +1,10 @@
+name: ipcc_ch6f20
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+
